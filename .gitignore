@@ -1,0 +1,8 @@
+dist
+node_modules
+.idea
+coverage
+.env
+yarn-error.log
+keys
+barn.txt

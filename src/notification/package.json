@@ -1,0 +1,21 @@
+{
+  "name": "hla-notification",
+  "version": "1.0.0",
+  "description": "Notification module",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/handlebars": "^4.1.0",
+    "firebase-admin": "^9.0.0",
+    "handlebars": "^4.7.6",
+    "nodemailer": "^6.4.11"
+  },
+  "devDependencies": {
+    "@types/nodemailer": "^6.4.0"
+  }
+}

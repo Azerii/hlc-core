@@ -1,0 +1,6 @@
+Hello {{first_name}},
+Please click on the link provided below to verify your email
+https://www.hlc.com/api/verify-email
+------------------------------------------------------------
+This email was sent to {{email_address}}.
+If this is not you, please disregard this email.
